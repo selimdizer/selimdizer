@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selimdizer
-- 👀 I’m interested in Finance and AI
-- 🌱 I’m currently learning machine learning and CNN
+- 👀 I’m interested in Finance and AI,ML and Deeplearning
+- 🌱 I’m currently learning Data Engineering and Blockchain
 - 
 
 <!---
